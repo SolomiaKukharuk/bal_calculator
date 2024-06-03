@@ -1,0 +1,22 @@
+{
+  "Canvas": {
+    "width": 600,
+    "height": 600,
+    "background_color": "white"
+  },
+  "Trajectory": {
+    "time_step": 0.01,
+    "total_time": 2
+  },
+  "Projectile": {
+    "roll": 1000,
+    "pitch": 2000,
+    "yaw": 3000,
+    "initial_position": {
+      "x": 0,
+      "y": 0,
+      "z": 100
+    }
+  }
+}
+

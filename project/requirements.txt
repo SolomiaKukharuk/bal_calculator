@@ -1,0 +1,6 @@
+numpy
+tkinter
+cv2
+matplotlib
+matplotlib.pyplot
+opencv
